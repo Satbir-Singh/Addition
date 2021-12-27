@@ -7,7 +7,7 @@ int main(){
 		a=10;
 		b=8;
 		result=a-b;
-		cout<<result;
+		cout<<"Result is"<<result;
 
 		return;
 
